@@ -1,0 +1,16 @@
+0ee439f7f9053720607042a608396bbb *DESCRIPTION
+e892689cb30e25b9ac223453a6b25474 *NAMESPACE
+ffb05a40e9e1a57ea460acf197c6958a *R/GRS.MLtest.R
+388fe986b926c3faa5c3cd7609782d8c *R/GRS.Power.R
+ad820cc5f4da6ebda089ed4dc6c19541 *R/GRS.Powerfunc.R
+3f0ab4e1c2b7563daf715c56a61d9b97 *R/GRS.optimal.R
+6ccb7245316051bae685f2564bb2c122 *R/GRS.test.R
+cc21bdaff4259b52ffb0ad9e09268de6 *build/partial.rdb
+0f1b70bbc0089f0606577959b421eca0 *data/data.rda
+d4d65280151008f84d99b487f65aca1a *man/GRS.MLtest.Rd
+d8deb4b8820c70f2ff6b34c23e7e726a *man/GRS.Power.Rd
+3a7b05a7011cf1e4acb6793bd545d5db *man/GRS.Powerfunc.Rd
+043739f8dcaf58151fe1328d3309a8e5 *man/GRS.optimal.Rd
+9a99a9a590e1cdd7484772536f44fe81 *man/GRS.test-package.Rd
+6006f034b4e2befa9fa7280a0bc4cb38 *man/GRS.test.Rd
+9ae7a107770a5d871cbe5c3adc17fd77 *man/data.Rd

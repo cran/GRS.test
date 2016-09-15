@@ -1,0 +1,4 @@
+export(GRS.test, GRS.MLtest, GRS.optimal, GRS.Power, GRS.Powerfunc) 
+importFrom("graphics", "abline", "plot", "points", "polygon")
+importFrom("stats", "cov", "df", "pf", "pt", "qf")
+importFrom("utils", "tail")
