@@ -41,7 +41,8 @@ function(ret.mat,factor.mat){
   F = tem3*tem4 *(tem1/tem2)
   p.F = pf(F,df1=N,df2=T-N-K,lower.tail=FALSE)
   
-  factor.names=c("intercept",colnames(factor.mat)); ret.names=colnames(ret.mat)
+  if(ncol(factor.mat) == 1) {factor.names = c("intercept","Singlefactor")} else {factor.names = c("intercept", colnames(factor.mat))}
+  ret.names=colnames(ret.mat)
   colnames(F) = "GRS"; colnames(p.F) = "GRS"
   colnames(b.mat) = factor.names; rownames(b.mat) = ret.names; 
   colnames(e.mat) = ret.names; 

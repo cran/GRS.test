@@ -1,5 +1,5 @@
 GRS.Power <-
-function(T,N,K,theta,ratio,alpha=0.05,xmax=10,Graph="TRUE"){
+function(T,N,K,theta,ratio,alpha=0.05,xmax=10,Graph=TRUE){
 
 x=seq(0,xmax,0.01)
 lamda=(T/ratio^2)/(1+1/theta^2) * (1-ratio^2)
@@ -7,7 +7,7 @@ df1=N; df2=T-N-K
 cr=qf(1-alpha,df1=df1,df2=df2)
 power = pf(cr,df1=df1, df2=df2, ncp=lamda,lower.tail = FALSE)
 
-if (Graph=="TRUE"){
+if (Graph==TRUE){
   
 density=df(x,df1=df1, df2=df2)
 plot(x,density,type="l",lwd=3,main="Density Functions Under H0 and H1")

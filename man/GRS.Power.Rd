@@ -18,7 +18,7 @@ GRS.Power(T, N, K, theta, ratio, alpha = 0.05, xmax = 10, Graph = "TRUE")
   \item{theta}{ maximum Sharpe ratio of the K factor portfolios}
   \item{ratio}{ theta/thetas, proportion of the potential efficiency }
   \item{alpha}{ the level of significance, default is 0.05 }
-  \item{xmax}{ the support of the desnity is from 0 to xmax. default is 10 }
+  \item{xmax}{ the support of the desnity is from 0 to xmax, default is 10 }
   \item{Graph}{ show graph if TRUE. No graph otherwise }
 }
 \details{

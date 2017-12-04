@@ -1,6 +1,6 @@
 GRS.MLtest <-
 function(ret.mat,factor.mat){
-  
+  ret.mat=as.matrix(ret.mat); factor.mat=as.matrix(factor.mat)
   N=ncol(ret.mat); T=nrow(ret.mat); K = ncol(factor.mat)
   
   rmat=as.matrix(colMeans(factor.mat))

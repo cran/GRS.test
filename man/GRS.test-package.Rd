@@ -15,13 +15,13 @@ The DESCRIPTION file:
 
 The package accompanies the working paper:
 
-Kim and Shamsuddin, 2016, Reapparaising Empirical Validity of Asset-Pricing Models with Consideration of Statistical Power
+Kim and Shamsuddin, 2017, Empirical Validity of Asset-pricing Models: Application of Optimal Significance Level and Equal Probability Test
 
 The function GRS.test returns the GRS test statistics with model estimation results.
 
 The function GRS.MLtest provides an alternative test statistic with theta and theta* estimation results. 
 
-Additional functions for the power analysis are also included.
+Additional functions for the power analysis and calculation of optimal level of significance are also included.
 
 }
 \author{
