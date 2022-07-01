@@ -1,4 +1,4 @@
-2dd56c52bbb1ccdf0c3ecb7859078181 *DESCRIPTION
+2498380fb66744fe620cbc66a12577b3 *DESCRIPTION
 fbaca140c5a71ac794aec2728b41023d *NAMESPACE
 c9d15dccac0945c28f86cdde5d7d2400 *R/Folded.Normal.R
 5ac7191f2653e3ccfdaa4ee1f2bd6b7c *R/GRS.MLtest.R
@@ -10,13 +10,13 @@ ad820cc5f4da6ebda089ed4dc6c19541 *R/GRS.Powerfunc.R
 428030e77aa52160c0fc051411ac7f92 *R/GRS.Q2.R
 e2ec03894d6aeb3c50b6f6370c14b1fa *R/GRS.T.R
 e77f302134cbee688eea71fc687bb7ac *R/GRS.optimal.R
-f69e7c435c83aa91543e0cbfc6be00b5 *R/GRS.optimalboot.R
-252058ff74074c389241399b8ff7ab4f *R/GRS.optimalbootweight.R
+edbb81416be93e837f910f612d32c7a1 *R/GRS.optimalboot.R
+da905f62d59f60c4f0cf9e70450f25e5 *R/GRS.optimalbootweight.R
 1ba183f485019c3d19ed4bb036635587 *R/GRS.optimalweight.R
 d2bb4e87b9d5711230116d296206da18 *R/GRS.test-internal.R
 928574753ecf38074751febf6507bd13 *R/GRS.test.R
 fdcea99ae1f8ddc93f6858407297c7bd *R/wild.R
-f53c739a8da8ae5e29a8d41b66464657 *build/partial.rdb
+191a66420447487ba916c0a30af6628b *build/partial.rdb
 0f1b70bbc0089f0606577959b421eca0 *data/data.rda
 d4d65280151008f84d99b487f65aca1a *man/GRS.MLtest.Rd
 8a394e94a1eb6f0268d2d25d4a12106a *man/GRS.Power.Rd

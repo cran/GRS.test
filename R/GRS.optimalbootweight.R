@@ -1,6 +1,6 @@
 GRS.optimalbootweight <-
 function(ret.mat,factor.mat,p=0.5,k=1,nboot=3000,wild=FALSE,Graph=TRUE){
-  set.seed(123456)
+  #set.seed(123456)
   ret.mat=as.matrix(ret.mat); factor.mat=as.matrix(factor.mat)
   N=ncol(ret.mat); T=nrow(ret.mat); K = ncol(factor.mat)
   lambda.mat=matrix(NA,nrow=nboot,ncol=1)
